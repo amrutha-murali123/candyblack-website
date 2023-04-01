@@ -1,0 +1,413 @@
+.writings{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin-top: 80px;
+    
+    
+}
+.candyblack{
+    width: 63px;
+    height: 63px;
+   margin-left: 730px;
+    margin-bottom: 30px;
+}
+.fone{
+    font-size: 10px;
+    margin-left: 100px;
+}
+.sone{
+    font-size: 10px;
+    margin-left: 35px;
+}
+.tone{
+    font-size: 10px;
+    margin-left: 35px;
+}
+.forone{
+    font-size: 10px;
+    margin-left:35px;
+}
+.fifone{
+    font-size: 10px;
+    margin-left: 35px;
+}
+.sixone{
+    font-size: 10px;
+    margin-left: 35px;
+}
+.hdhd{
+    margin-left: 140px;
+    font-size: 28px;
+    margin-top: 45px;
+    color: rgb(32, 30, 30);
+}
+.gridcontainercandy{
+    display: grid;
+    grid-template-columns: repeat(3,354px);
+    grid-template-rows: 531px;
+    margin-top: 150px;
+    row-gap: 100px;
+    column-gap: 100px;
+    margin-left: 100px;
+    margin-bottom: 170px;
+    
+    
+}
+.pic1{
+    background-image: url("candyblack/pics1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic2{
+    background-image: url("candyblack/pics2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic3{
+    background-image: url("candyblack/pics3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic4{
+    background-image: url("candyblack/pics4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic5{
+    background-image: url("candyblack/pics6.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic6{
+    background-image: url("candyblack/pics7.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic7{
+    background-image: url("candyblack/pic8.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic8{
+    background-image: url("candyblack/pic9.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic9{
+    background-image: url("candyblack/pic10.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic10{
+    background-image: url("candyblack/pic11.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic11{
+    background-image: url("candyblack/pic12.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic12{
+    background-image: url("candyblack/pic13.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic13{
+    background-image: url("candyblack/pic14.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic14{
+    background-image: url("candyblack/pic15.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic15{
+    background-image: url("cndyblack/pic16.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic16{
+    background-image: url("candyblack/pic17.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic17{
+    background-image: url("candyblack/pic13.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic18{
+    background-image: url("candyblack/pic19.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic19{
+    background-image: url("candyblack/pic21.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic20{
+    background-image: url("candyblack/pic28.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic21{
+    background-image: url("candyblack/pic25.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic22{
+    background-image: url("candyblack/pic26.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic23{
+    background-image: url("candyblack/pic27.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic24{
+    background-image: url("candyblack/pic28.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic25{
+    background-image: url("candyblack/pic29.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic26{
+    background-image: url("candybalck/pic30.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic27{
+    background-image: url("candyblack/pic31.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic28{
+    background-image: url("candyblack/pic32.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic29{
+    background-image: url("candyblack/pic33.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic30{
+    background-image: url("candyblack/pic34.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic31{
+    background-image: url("candyblack/pic35.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic32{
+    background-image: url("candyblack/pic36.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic33{
+    background-image: url("candyblack/pic37.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic34{
+    background-image: url("candyblack/pic39.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic35{
+    background-image: url("candyblack/pic40.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic36{
+    background-image: url("candyblack/pic41.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic37{
+    background-image: url("candyblack/pic42.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.pic38{
+    background-image: url("candyblack/pic43.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 531px;
+    width: 354;
+}
+.registereddown{
+    line-height: 1px;
+    margin-top: 40px;
+    
+}
+.section1{
+    margin-bottom: 80px;
+    margin-left: 140px;
+    color: rgb(108, 102, 102);
+
+
+}
+.span{
+    color: rgb(178, 164, 164);
+}
+.registereddown2{
+    line-height: 1px;
+    margin-top: 40px;
+}
+.section2{
+    margin-bottom: 80px;
+    margin-left: 320px;
+    color: rgb(108, 102, 102);
+}
+.lmva{
+    height: 13px;
+    width: 13px;
+}
+.lmvb{
+    height: 13px;
+    width: 13px;
+}
+.lmvc{
+    height: 13px;
+    width: 13px; 
+}
+.lmvd{
+    height: 13px;
+    width: 13px; 
+}
+.section3{
+    margin-bottom: 80px;
+    margin-left: 320px;
+    color: rgb(108, 102, 102);
+}
+.registereddown3{
+    line-height: 1px;
+    margin-top: 40px;
+}
+.footer{
+    display: flex;
+}
+
